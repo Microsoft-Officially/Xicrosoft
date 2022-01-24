@@ -2,7 +2,7 @@
 
 - Hi 你好，我是Xicrosoft
 
-- 👨🏻‍💻 一名Xicrosoft程序员
+- 👨🏻‍💻 一名Microsoft程序员
 - 🤝 正在寻找合作
 - 📧 xzx2010429@163.com
 
