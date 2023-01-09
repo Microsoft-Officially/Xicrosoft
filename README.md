@@ -9,7 +9,7 @@
 
 <br/>
 
-><details> <summary>Click to expand the English version</summary>
+><details><summary>Click to expand the English version</summary>
 >
 >- Hi, I’m Xicrosoft
 >
@@ -17,7 +17,6 @@
 >- 🤝 Looking for cooperation
 >- 📧 admin@xicrosoft.ml
 >- ✅ Flukesuki & XIC Studio
->
 <br/>
 <br/>
 <br/>
