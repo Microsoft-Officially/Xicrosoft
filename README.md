@@ -15,13 +15,12 @@
 >
 >- 👨🏻‍💻 a Xicrosoft programmer
 >- 🤝 Looking for cooperation
-- 📧 admin@xicrosoft.ml
-- ✅ Flukesuki & XIC Studio
+>- 📧 admin@xicrosoft.ml
+>- ✅ Flukesuki & XIC Studio
 >
-><br/>
->
-<br>
-<br>
-<br>
+<br/>
+<br/>
+<br/>
+<br/>
 
 Copyright ©2022 Xicrosoft Corporation. All rights reserved
