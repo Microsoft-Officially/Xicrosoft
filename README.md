@@ -1,4 +1,4 @@
-# **<div align="center">👋 Hey, I'm Xicrosoft!</div>**  
+## **<div align="center">👋 Hey, I'm Xicrosoft!</div>**  
   
 
 <div align="center">
@@ -14,7 +14,7 @@
 <a href="https://gitlab.com/https://gitlab.com/xicrosofts" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/channel/UCjzFXUpi3jl97xbB35XTrfg" target="_blank">
+<a href="https://www.youtube.com/channel/UCjzFXUpi3jl97xbB35XTrfg" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div> 
@@ -22,7 +22,7 @@
 <br/>  
 
 
-## <div align="center">Languages and Tools</div>  
+### <div align="center">Languages and Tools</div>  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
@@ -94,7 +94,7 @@
 <br/>  
 <br/>   
 
-## <div align="center">Github Stats</div> 
+### <div align="center">Github Stats</div> 
 <div align="center"><table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=xicrosofts&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -109,7 +109,7 @@
 <br/>  
 
 
-## <div align="center">I'm Listening</div>  
+### <div align="center">I'm Listening</div>  
   
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ben2y77hf5ucesaxsi2zwpcl6i&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" /></div>  
