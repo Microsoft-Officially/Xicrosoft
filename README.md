@@ -38,7 +38,7 @@
 
 #### Framework
 
-![My Skills](https://skillicons.dev/icons?i=dotnet,rails,flask,django,laravel&theme=light)
+![My Skills](https://skillicons.dev/icons?i=dotnet,rails,flask,django,laravel,flutter&theme=light)
 
 #### Other
 
