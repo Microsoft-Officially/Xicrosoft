@@ -42,7 +42,7 @@
 
 #### Other
 
-![My Skills](https://skillicons.dev/icons?i=nginx,mysql,mongodb,electron,nodejs,vue&theme=light)
+![My Skills](https://skillicons.dev/icons?i=nginx,mysql,mongodb,electron,nodejs,vue,idea&theme=light)
 
 <br/>
 <br/>
