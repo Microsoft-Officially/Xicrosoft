@@ -30,7 +30,7 @@
 
 #### Language
 
-![My Skills](https://skillicons.dev/icons?i=py,cs,cpp,c,rust,html,css,ruby,js,php,java,dart,bash,swift,go&theme=light&perline=50)
+![My Skills](https://skillicons.dev/icons?i=py,cs,cpp,c,java,html,css,ruby,rust,js,php,java,dart,bash,swift,go&theme=light&perline=50)
 
 #### Platform
 
@@ -42,7 +42,7 @@
 
 #### Other
 
-![My Skills](https://skillicons.dev/icons?i=nginx,mysql,mongodb,electron,nodejs,vue,idea&theme=light)
+![My Skills](https://skillicons.dev/icons?i=nginx,mysql,mongodb,electron,nodejs,react,vue,idea&theme=light)
 
 <br/>
 <br/>
