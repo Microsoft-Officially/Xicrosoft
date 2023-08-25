@@ -1,7 +1,7 @@
 ## **<div align="center">👋 Hey, I'm ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1000&pause=2000&color=1677FF&center=true&vCenter=true&multiline=true&repeat=false&width=122&height=33&lines=Xicrosoft) !</div>**
 
 <div align="center">
-<a href="https://github.com/xicrosofts" target="_blank">
+<a href="https://github.com/Xicrosoft" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/xicrosofts" target="_blank">
@@ -13,7 +13,7 @@
 <a href="https://gitlab.com/https://gitlab.com/xicrosofts" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
-<a href="https://t.me/xicrosofts" target="_blank">
+<a href="https://t.me/Xicrosoft" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%2300acee.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/channel/UCjzFXUpi3jl97xbB35XTrfg" target="_blank">
@@ -70,7 +70,7 @@
 <br/>
 <br/>
 <div align="center">
-<a href="https://github.com/xicrosofts" target="_blank">
+<a href="https://github.com/Xicrosoft" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/xicrosofts" target="_blank">
@@ -82,7 +82,7 @@
 <a href="https://gitlab.com/https://gitlab.com/xicrosofts" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
-<a href="https://t.me/xicrosofts" target="_blank">
+<a href="https://t.me/Xicrosoft" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%2300acee.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/channel/UCjzFXUpi3jl97xbB35XTrfg" target="_blank">
