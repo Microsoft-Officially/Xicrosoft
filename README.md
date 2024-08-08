@@ -4,8 +4,8 @@
 <a href="https://github.com/Xicrosoft" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/xicrosofts" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<a href="https://x.com/xicrosofts" target="_blank">
+<img src=https://img.shields.io/badge/Formerly%20Twitter-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100093572703523" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
@@ -65,7 +65,7 @@
 ### <div align="center">I'm Listening</div>
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ben2y77hf5ucesaxsi2zwpcl6i&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" /></div>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ben2y77hf5ucesaxsi2zwpcl6i&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" /></div>
 
 <br/>
 <br/>
@@ -73,8 +73,8 @@
 <a href="https://github.com/Xicrosoft" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/xicrosofts" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<a href="https://x.com/xicrosofts" target="_blank">
+<img src=https://img.shields.io/badge/Formerly%20Twitter-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100093572703523" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
