@@ -16,10 +16,10 @@
 <a href="https://t.me/Xicrosoft" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%2300acee.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/channel/UCjzFXUpi3jl97xbB35XTrfg" target="_blank">
+<!-- <a href="https://www.youtube.com/channel/UCjzFXUpi3jl97xbB35XTrfg" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
-<br/>
+<br/> -->
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&vCenter=true&size=18&pause=2000&color=1677FF&center=true&width=435&lines=Infinite+Innovation;%E6%97%A0++%E9%99%90++%E5%88%9B++%E6%96%B0;Innovaci%C3%B3n+infinita;%D0%91%D0%B5%D1%81%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D0%B5+%D0%B8%D0%BD%D0%BD%D0%BE%D0%B2%D0%B0%D1%86%D0%B8%D0%B8;Innovation+Infinite;%D8%A7%D8%A8%D8%AA%D9%83%D8%A7%D8%B1+%D9%84%D8%A7%D9%86%D9%87%D8%A7%D8%A6%D9%8A)
 
@@ -85,10 +85,10 @@
 <a href="https://t.me/Xicrosoft" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%2300acee.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/channel/UCjzFXUpi3jl97xbB35XTrfg" target="_blank">
+<!-- <a href="https://www.youtube.com/channel/UCjzFXUpi3jl97xbB35XTrfg" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
-<br/>
+<br/> -->
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&vCenter=true&size=18&pause=2000&color=1677FF&center=true&width=435&lines=Infinite+Innovation;%E6%97%A0++%E9%99%90++%E5%88%9B++%E6%96%B0;Innovaci%C3%B3n+infinita;%D0%91%D0%B5%D1%81%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D0%B5+%D0%B8%D0%BD%D0%BD%D0%BE%D0%B2%D0%B0%D1%86%D0%B8%D0%B8;Innovation+Infinite;%D8%A7%D8%A8%D8%AA%D9%83%D8%A7%D8%B1+%D9%84%D8%A7%D9%86%D9%87%D8%A7%D8%A6%D9%8A)
 
